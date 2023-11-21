@@ -10,7 +10,7 @@ By integrating Markprompt with salesforce we can directly train the Markprompt f
 * Open the donwloaded folder in VS Code
 * Authorize an Org
 * Make changes in Apex class according to the comments provided in the code(change token and development key)
-* Push all metadata to scratch org (sfdx force:source:push)
+* Push all metadata to org (sfdx force:source:push)
 * Create Tabs for Aura Components (AskAI comp. and TrainMarkPrompt comp.)
 * Add the Tabs to your App.
 
