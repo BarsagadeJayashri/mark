@@ -1,0 +1,18 @@
+.THIS.user-message {
+    text-align: right;
+    margin-bottom: 0.5;
+}
+
+.THIS.bot-message {
+    text-align: left;
+    margin-bottom: 0.5;
+}
+
+.THIS.exampleHolder{
+    position: relative;
+    display: inline-block;
+    margin-left: 15px;
+    width: 55px;
+    vertical-align: middle;
+    white-space: nowrap;
+}
