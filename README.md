@@ -16,6 +16,9 @@ By integrating Markprompt with salesforce we can directly train the Markprompt f
 
 # Usage
 * Use Train MarkPrompt Component to the train the Data to MarkPrompt with the help of Zip File or Text File (or if you want to provide Github repo to train Markprompt then you can directly do it from MarkPrompt Account).
-* With the help of Ask AI component we can get answers to the questions we have. 
+ ![image](https://github.com/DeligenceTechnologies/Salesforce-MarkPrompt-Integration/assets/123357545/02ad6309-e9ce-47b7-8150-fd7657d9bca1)
+
+* With the help of Ask AI component we can get answers to the questions we have.
+ ![image](https://github.com/DeligenceTechnologies/Salesforce-MarkPrompt-Integration/assets/123357545/bc371a36-9b2b-4d49-8bb7-abb58d3a0712)
 
 ** Note- It will only provide the answer to the question asked if it finds the related content in the data provided by us to train MarkPrompt
