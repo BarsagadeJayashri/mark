@@ -15,7 +15,7 @@ By integrating Markprompt with salesforce we can directly train the Markprompt f
 * Add the Tabs to your App.
 
 # Usage
-* Use Train MarkPrompt Component to the train the Data to MarkPrompt with the help of Zip File or Text File (or we yoiu need to provide Github repo to train Markprompt then you can directly do it from MarkPrompt Account).
+* Use Train MarkPrompt Component to the train the Data to MarkPrompt with the help of Zip File or Text File (or if you want to provide Github repo to train Markprompt then you can directly do it from MarkPrompt Account).
 * With the help of Ask AI component we can get answers to the questions we have. 
 
 ** Note- It will only provide the answer to the question asked if it finds the related content in the data provided by us to train MarkPrompt
